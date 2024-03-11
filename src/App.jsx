@@ -386,7 +386,6 @@ const App = () => {
 
       </Table> 
 
-      
       <div
        style={{ display: 'flex', justifyContent: 'space-between' }}
       >
